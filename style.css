@@ -1,0 +1,19 @@
+.vertical {
+    vertical-align: top;
+}
+
+.middle {
+    vertical-align: middle;
+}
+
+.bottom {
+    vertical-align: bottom;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
